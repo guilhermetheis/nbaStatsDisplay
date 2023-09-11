@@ -20,4 +20,14 @@ Which then generated the following:
 
 ### Usage
 
-To use the software 
+To use the software you can go from the [source code]() or the [released version](https://github.com/guilhermetheis/nbaStatsDisplay/releases/tag/v1.0.0). Currently only Windows is supported. To then use the software you need a few things:
+
+* A [TrueType Font](https://fileinfo.com/extension/ttf) to define exactly the font you are using
+* The color in a Hexadecimal format for your font (currently the background is bugged so using all zeros is the recomended)
+* Select the path you want to save the image to
+* The font size you wish to use
+
+Everything else is a drag menu so its somewhat intuitive. The parameters are limited. The image will be saved with the naming as such `YYYYMMDD Team Name.png`. The below image is an example of how it should look (using the released version):
+
+![](figs/softwareUsage.png)
+
