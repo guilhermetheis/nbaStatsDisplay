@@ -16,7 +16,7 @@ This is a stats ticker for podcasts/content creation. As currently built it gene
 
 Which then generated the following:
 
-![](figs/Boston Celtics20230911.png)
+![](figs/Boston_Celtics20230911.png)
 
 ### Usage
 
